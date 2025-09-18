@@ -1,5 +1,3 @@
-You're right! I created the Yield Matrix smart contract but didn't provide the README yet. Here it is:
-
 # Yield Matrix 🎯
 
 An advanced yield aggregator protocol on Stacks blockchain featuring auto-compounding vaults, multi-strategy optimization, and institutional-grade risk management.
